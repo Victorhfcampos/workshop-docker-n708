@@ -23,7 +23,6 @@ O objetivo foi criar uma aplicação web funcional e multiplataforma que simula 
 
 ### 1. Clone o repositório
 
-```bash
 git clone https://github.com/seuusuario/workshop-docker.git
 cd workshop-docker
 
