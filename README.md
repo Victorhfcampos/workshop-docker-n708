@@ -23,7 +23,8 @@ O objetivo foi criar uma aplicação web funcional e multiplataforma que simula 
 
 ### 1. Clone o repositório
 
-git clone https://github.com/seuusuario/workshop-docker.git
+git clone
+https://github.com/seuusuario/workshop-docker.git
 cd workshop-docker
 
 ### 2. Instale as dependências
