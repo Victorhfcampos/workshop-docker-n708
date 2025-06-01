@@ -24,16 +24,23 @@ O objetivo foi criar uma aplicação web funcional e multiplataforma que simula 
 ### 1. Clone o repositório
 
 git clone
+
 https://github.com/seuusuario/workshop-docker.git
+
 cd workshop-docker
 
 ### 2. Instale as dependências
+
 cd backend
+
 python3 -m venv .venv
+
 source .venv/bin/activate
+
 pip install fastapi uvicorn
 
 ### 3. Rode o servidor FastAPI
+
 uvicorn main:app --reload
 
 Acesse a documentação Swagger no link gerado
